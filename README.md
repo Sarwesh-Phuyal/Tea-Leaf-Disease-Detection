@@ -220,6 +220,19 @@ Tea-Leaf-Disease-Detection/
 
 \---
 
+## Results
+
+The models were evaluated using Stratified 5-Fold Cross Validation.
+
+Key techniques:
+- Vision Transformer (ViT)
+- Swin Transformer
+- DeiT
+- ConvNeXt
+- Stacking Ensemble
+- Test-Time Augmentation
+
+The ensemble approach improved classification robustness and overall predictive performance across tea leaf disease categories.
 
 
 \## Installation
